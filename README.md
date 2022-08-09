@@ -1,3 +1,13 @@
+# Structedit #
+
+Package structedit allows to interactively edit structure values.
+
+It it basically a wrapper around survey library that parses the structure tags
+and generates necessary "questions".
+
+Usage example:
+
+```go
 package main
 
 import (
